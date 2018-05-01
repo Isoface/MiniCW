@@ -1,0 +1,40 @@
+Max-Players-Per-Team: 35
+Comando-Invalido: '&cComando Invalido! Use: /ClanWars help, para obtener la lista de comandos.'
+Sin-permiso: '&cNo Tienes Permisos para utilizar este comando!'
+Sin-Clan: '&cTienes que estar en un clan para jugar!'
+Juador-Invalido: '&cNo se encontro el jugador!'
+Jugadores-Maximo-Exedido: '&cEl maximo de jugadores por clan es de %#'
+Equipo-Invalido: '&cEste equipo no Existe!'
+
+Modo-privado-activado: '&aModo privado Activado'
+Modo-privado-desactivado: '&aModo privado &cDesactivado'
+
+Equipo-con-Lider: '&cEste equipo ya tiene un lider establecido!'
+Equipo-sin-Lider: '&cEste equipo no tiene un lider establecido!'
+
+Tienes-que-ser-un-Jugador: '&cTienes que ser un jugador para utilizar este comando!'
+Kick-Mensaje: '&cFuiste kickeado de tu clan!'
+
+Lider-Establecido: '&aSe establecio el lider del equipo %w'
+Lider-Removido: '&aSe removio el lider del equipo %w'
+
+Juagdor-Agregado: '&aAgregaste el jugador &6%w a tu clan!'
+Juagdor-Removido: '&eRemoviste el jugador &6%w de tu clan!'
+
+No-Eres-Lider: '&cTienes que ser el lider de un clan para utilizar este comando!'
+Jugador-con-clan: '&cEste jugador ya esta en un clan!'
+Jugador-sin-clan: '&cEste jugador no esta en un clan!'
+
+Comand-Help:
+  - '&aComandos:'
+  - '&a- /ClanWars &6lider [nick] [Team]: &aEstablecer un jugador como lider de ese equipo.'
+  - '&a- /ClanWars &6dd [Player]: &aAgregar jugador a tu clan.'
+  - '&a- /ClanWars &6remove [Player]: &aRemover jugador de tu clan.'
+  - '&a- /ClanWars &6list: &aVer la lista de jugadores en tu clan.'
+  
+Player-list: '&aJugadores en mi clan:'
+Player-list-player-mostrado: '- &6%w'
+
+
+Server-Bungee: 'my bungee lobby'
+Server-Bungee-Use: true
